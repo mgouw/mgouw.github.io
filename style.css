@@ -32,6 +32,15 @@ p {
     max-width: 50%;
 }
 
+.buttons {
+    margin-top: 1.5rem;
+}
+
+.bigbuttondiv {
+    display: block; 
+    margin: 10px 0 7px -1px;
+}
+
 .bigbutton {
     font-size: 1.4rem;
 }
